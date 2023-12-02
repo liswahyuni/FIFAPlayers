@@ -1,5 +1,6 @@
 # FIFAPlayers
 The aim of this project is to explore and gain insights from the FIFA video game player data, select the most interesting insights from the dataset, and solve problems for gamers.
+
 ![FIFA Players Dashboard](DashboardInterface.png)
 
 ## Problem Statement
