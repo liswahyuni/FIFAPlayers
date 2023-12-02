@@ -25,7 +25,7 @@ The dataset was collected from [**here**](https://www.kaggle.com/datasets/bryanb
 - [x] Add some calculated fields based on the FIFA Stats Calculator in Looker Studio
 
 ## Project Outcome
-Gamers gain a comprehensive understanding of the FIFA player stat effectively and efficiently with an easy-use FIFA Players dashborad, click [**here**](https://lookerstudio.google.com/reporting/000d2897-aaf8-46d9-a7f0-59155fc3b5ee) to use and explore it.
+Gamers can gain a comprehensive understanding of FIFA player stats effectively and efficiently with the easy-to-use FIFA Players dashboard. Click [**here**](https://lookerstudio.google.com/reporting/000d2897-aaf8-46d9-a7f0-59155fc3b5ee) to use and explore it.
 
 ## Contributors
 - Lis Wahyuni
