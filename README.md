@@ -20,9 +20,13 @@ The dataset was collected from [**here**](https://www.kaggle.com/datasets/bryanb
 ## TODO's
 - [x] Collecting dataset
 - [x] Combining all the CSV files with some column adjustments (preprocessing steps)
-- [x] Read the FIFA Stats Calculator documentation from [**here**](https://www.futbin.com/stats-calculator)
-- [x] Develop the dashboard  
+- [x] Read the FIFA Stats Calculator documentation from [**here**](https://www.futbin.com/stats-calculator) 
 - [x] Add some calculated fields based on the FIFA Stats Calculator in Looker Studio
+- [x] Develop the dashboard 
+
+## Tech Stack
+- Python
+- Looker Studio
 
 ## Project Outcome
 Gamers can gain a comprehensive understanding of FIFA player stats effectively and efficiently with the easy-to-use FIFA Players dashboard. Click [**here**](https://lookerstudio.google.com/reporting/000d2897-aaf8-46d9-a7f0-59155fc3b5ee) to use and explore it.
