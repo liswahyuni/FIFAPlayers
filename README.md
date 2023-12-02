@@ -1,3 +1,3 @@
 # FIFAPlayers
 
-![FIFA Players Dashboard](https://raw.githubusercontent.com/liswahyuni/Collections/master/.github/FIFAPlayersDashboard.png)
+![FIFA Players Dashboard](https://raw.githubusercontent.com/liswahyuni/Collections/master/FIFAPlayersDashboard.png)
