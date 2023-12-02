@@ -22,7 +22,7 @@ The dataset was collected from [**here**](https://www.kaggle.com/datasets/bryanb
 - [x] Combining all the CSV files with some column adjustments (preprocessing steps)
 - [x] Read the FIFA Stats Calculator documentation from [**here**](https://www.futbin.com/stats-calculator)
 
-      [player stat](player_stat.png)
+      ![player stat](player_stat.png)
       
 - [x] Add some calculated fields based on the FIFA Stats Calculator in Looker Studio
 - [x] Develop the dashboard 
